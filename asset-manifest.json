@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/whitelistsystem/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/whitelistsystem/static/js/main.c9e26815.chunk.js",
+    "main.js.map": "/whitelistsystem/static/js/main.c9e26815.chunk.js.map",
+    "runtime-main.js": "/whitelistsystem/static/js/runtime-main.2c110a91.js",
+    "runtime-main.js.map": "/whitelistsystem/static/js/runtime-main.2c110a91.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/whitelistsystem/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.4ca16ebd.chunk.js": "/whitelistsystem/static/js/2.4ca16ebd.chunk.js",
+    "static/js/2.4ca16ebd.chunk.js.map": "/whitelistsystem/static/js/2.4ca16ebd.chunk.js.map",
+    "index.html": "/whitelistsystem/index.html",
+    "precache-manifest.96eaa439d1d86ceefe7ec9a1a94ef1ee.js": "/whitelistsystem/precache-manifest.96eaa439d1d86ceefe7ec9a1a94ef1ee.js",
+    "service-worker.js": "/whitelistsystem/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/whitelistsystem/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/whitelistsystem/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c110a91.js",
+    "static/css/2.63f31f8d.chunk.css",
+    "static/js/2.4ca16ebd.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.c9e26815.chunk.js"
+  ]
+}
