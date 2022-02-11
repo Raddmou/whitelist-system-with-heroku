@@ -1,0 +1,11 @@
+{
+  "homepage": "https://raddmou.github.io/whitelistsystem/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "gh-pages": "^3.2.3"
+  }
+}
